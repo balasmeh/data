@@ -1,0 +1,7 @@
+DATA AVAILABILITY STATEMENT
+All the authors hereby confirmed that:
+The data that support the findings of this study are available from the corresponding author upon request. The authors can also provide all source files like codes, used datasets, latex source files, results, and so forth if requested by the reviewers or the editors.
+We have used various public datasets for testing our framework and these datasets are cited in the manuscript and also listed here:
+citibike-trip data: https://www.citibikenyc.com/system-data and https://www.kaggle.com/sujan97/citibike-system-data
+T-drive Taxi Trajectories: https://www.microsoft.com/en-us/research/publication/t-drive-driving-directions-based-on-taxi-trajectories/
+GPS Trajectory https://archive.ics.uci.edu/ml/datasets/GPS+Trajectories and https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/
